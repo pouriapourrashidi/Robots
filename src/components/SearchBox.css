@@ -1,0 +1,16 @@
+.bc{
+    background: rgba(250, 92, 0, 0.058);
+}
+
+
+::-webkit-input-placeholder { /* Edge */
+    color: black;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: black;
+  }
+  
+  ::placeholder {
+    color: black;
+  }
